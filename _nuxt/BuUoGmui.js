@@ -1,0 +1,1 @@
+import{f as e,h as t,m as n,p as r,s as i,t as a}from"#entry";var o={};function s(a,o){let s=n(`v-app`);return e(),i(s,null,{default:t(()=>[r(a.$slots,`default`)]),_:3})}var c=a(o,[[`render`,s]]);export{c as default};
